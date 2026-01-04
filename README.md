@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m currently working on improving my **core computer science fundamentals** and building **small web-based projects**.<br>I’m looking to collaborate on **beginner-friendly open source projects**, **web development**, and **college-level tech initiatives**.<br>I’m looking for help with **Data Structures & Algorithms**, **DBMS**, and **real-world project development**.<br>I’m currently learning **HTML, CSS, JavaScript**, along with **DBMS, DSA, and Operating Systems**.<br>**B.Tech IT subjects**, **exam preparation**, **web basics**, or **college tech competitions**.<br>I was a **NEC 2025 Finalist**, a national-level competition organized by **IIT Bombay** 🚀<br>
+I’m currently working on improving my **core computer science fundamentals** and building **small web-based projects**.<br>
+👯 I’m looking to collaborate on **beginner-friendly open source projects**, **web development**, and **college-level tech initiatives**.<br>
+🤝 I’m looking for help with **Data Structures & Algorithms**, **DBMS**, and **real-world project development**.<br>
+🌱 I’m currently learning **HTML, CSS, JavaScript**, along with **DBMS, DSA, and Operating Systems**.<br>
+💬 Ask me about **B.Tech IT subjects**, **exam preparation**, **web basics**, or **college tech competitions**.<br>
+⚡ Fun fact: I was a **NEC 2025 Finalist**, a national-level competition organized by **IIT Bombay** 🚀
+
 
 
 ## 🌐 Socials:
